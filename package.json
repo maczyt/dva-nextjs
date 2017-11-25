@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
+    "classnames": "^2.2.5",
     "dva": "^2.1.0",
     "dva-no-router": "^1.0.3",
-    "history": "^4.7.2",
     "lodash": "^4.17.4",
     "next": "^4.1.4",
     "react": "^16.1.1",

@@ -1,5 +1,6 @@
 import Link from 'next/link'
-import dva from 'dva';
+import dva from 'dva'
+import Router from 'next/router'
 import appStyle from 'todomvc-app-css/index.css'
 import Head from '../components/head'
 import Foot from '../components/foot'
